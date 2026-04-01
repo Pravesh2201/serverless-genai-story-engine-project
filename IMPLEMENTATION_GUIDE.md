@@ -1,4 +1,4 @@
-# Implementation Guide — Serverless AI Story Generation System
+# Implementation Guide — Serverless-GenAI-Story-System
 
 This guide walks through every step to recreate this project from scratch in your own AWS account.
 
