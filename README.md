@@ -1,4 +1,4 @@
-# Serverless AI Story Generation System
+# Serverless GenAI Story System
 
 An end-to-end serverless application on AWS that uses Generative AI to automatically generate children's stories, store them in Amazon S3, and track metadata in Amazon DynamoDB — all orchestrated by a single AWS Lambda function written with the help of Amazon Q Developer.
 
